@@ -1,1 +1,1 @@
-## Ruby Basics Excercises ##
+## Ruby Basics Exercises ##
